@@ -1,7 +1,7 @@
 <!-- BE SURE TO UPDATE NAME AND LINK TO DOC -->
 
 # 18194-related-videos-playlist
-For more information about this sample see: https://support.brightcove.com/brightcove-player-sample-related-videos-playlist.
+For more information about this sample see: https://player.support.brightcove.com/code-samples/brightcove-player-sample-related-videos-playlist.html.
 
 <p>The purpose and structure of files in this repo are:</p>
 
